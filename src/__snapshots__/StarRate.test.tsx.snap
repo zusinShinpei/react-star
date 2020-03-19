@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StarRate run correctly renders successfully 1`] = `
+<StarRate
+  onChange={[MockFunction]}
+  value={3.5}
+>
+  <div
+    className="app"
+  >
+    <div
+      className="container"
+      onMouseLeave={[Function]}
+      onMouseMove={[Function]}
+    >
+      <ForwardRef(SvgStarFull)
+        className="pointer left"
+        height={32}
+        key="FullStar1"
+        onClick={[Function]}
+        width={32}
+      >
+        <svg
+          className="pointer left"
+          height={32}
+          onClick={[Function]}
+          width={32}
+        >
+          star-full.svg
+        </svg>
+      </ForwardRef(SvgStarFull)>
+      <ForwardRef(SvgStarFull)
+        className="pointer left"
+        height={32}
+        key="FullStar2"
+        onClick={[Function]}
+        width={32}
+      >
+        <svg
+          className="pointer left"
+          height={32}
+          onClick={[Function]}
+          width={32}
+        >
+          star-full.svg
+        </svg>
+      </ForwardRef(SvgStarFull)>
+      <ForwardRef(SvgStarFull)
+        className="pointer left"
+        height={32}
+        key="FullStar3"
+        onClick={[Function]}
+        width={32}
+      >
+        <svg
+          className="pointer left"
+          height={32}
+          onClick={[Function]}
+          width={32}
+        >
+          star-full.svg
+        </svg>
+      </ForwardRef(SvgStarFull)>
+      <ForwardRef(SvgStarHalf)
+        className="pointer left"
+        height={32}
+        key="HalfStar4"
+        onClick={[Function]}
+        width={32}
+      >
+        <svg
+          className="pointer left"
+          height={32}
+          onClick={[Function]}
+          width={32}
+        >
+          star-half.svg
+        </svg>
+      </ForwardRef(SvgStarHalf)>
+      <ForwardRef(SvgStarEmpty)
+        className="pointer left"
+        height={32}
+        key="EmptyStar5"
+        onClick={[Function]}
+        width={32}
+      >
+        <svg
+          className="pointer left"
+          height={32}
+          onClick={[Function]}
+          width={32}
+        >
+          star-empty.svg
+        </svg>
+      </ForwardRef(SvgStarEmpty)>
+    </div>
+    <ForwardRef(SvgReset)
+      className="pointer more-left"
+      height={16}
+      onClick={[Function]}
+      width={16}
+    >
+      <svg
+        className="pointer more-left"
+        height={16}
+        onClick={[Function]}
+        width={16}
+      >
+        reset.svg
+      </svg>
+    </ForwardRef(SvgReset)>
+  </div>
+</StarRate>
+`;
